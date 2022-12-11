@@ -1,0 +1,37 @@
+.card-header{
+    background-color: lightskyblue;
+    text-align: center;
+    color: #4167f2;
+}
+.card-footer{
+    background-color: lightskyblue;
+    text-align: center;
+}
+.card{
+    margin: 5px;
+}
+.navbar{
+    background-color: wheat;
+}
+.head{
+    text-align: center;
+}
+
+table{
+    background-color: cornsilk;
+    text-align: center;
+    font-size: 70%;
+    width: 100%;
+}
+.head{
+    border-bottom: solid lightblue 2px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.body{
+    border-bottom: solid lightblue 2px;
+}
+.btn{
+    border: solid brown 1px;
+    font-size: 180%;
+}

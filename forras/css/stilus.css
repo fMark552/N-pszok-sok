@@ -1,0 +1,41 @@
+.w-100{
+    inline-size: 250px;
+}
+.navbar{
+    background-color: wheat;
+}
+h2{
+    margin-inline-start: 8px;
+    font-size: 110%;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: darkblue;
+}
+.my-auto{
+    vertical-align: auto;
+}
+.px-5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+img{
+    height: 200px;
+    width: auto;
+}
+.py-2{
+    background-color: cornsilk;
+    text-align: center;
+}
+#lab1{
+    float: left;
+}
+#lab2{
+    float: right;
+}
+ul{
+    list-style-type: none;
+}
+#lab0{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
